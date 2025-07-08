@@ -4,7 +4,7 @@
 
 ```py
 git clone https://github.com/Approachablemember/swida_backend.git
-cd swida-backend
+cd ./swida_backend
 ```
 
 ### 2. Create virtual environment & install dependencies
